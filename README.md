@@ -2,7 +2,7 @@
 
 🎓 I recently graduated with both a Bachelor's and a Master's in Computer Science and Mathematics from Vanderbilt University, with minors in Economics and Data Science. ⚓
 
-🚀 I am passionate about building and designing innovative solutions in software engineering. I'm particularly excited about creating impactful user experiences and integrating cutting-edge technologies.
+🌎 I am interested in building and designing innovative solutions in software engineering. I'm particularly excited about creating impactful user experiences and integrating cutting-edge technologies.
 
 🧑‍💻 **Current Projects:**
 1. **Redesigning My Portfolio Website** - Currently updating my professional portfolio to better showcase my projects and skills.
